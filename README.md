@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmy-data
+- 👋 Hi, I’m Adesuyi EMmanuel Omole
 - 🌱 I’m a cybersecurity analyst foussing on cloud security
 - 💞️ I’m looking to collaborate on projects that will contribute to my learning on being a SOC Analyst and Cloud security
 - 📫 You can reach me on adesuyiomole@gmail.com
